@@ -3,5 +3,9 @@ Folder to keep ongoing code for producing simulations of heterogeneous spreading
 
 This is common work by P.Holme, F.Ianelli, L.Tupikina and CRI master.
 
+# how to use the repository 
+
+Overleaf in progress https://www.overleaf.com/project/5c640b9f4b3b354faddbbf35 
+
 # license
 GNU General Public License.

@@ -1,8 +1,6 @@
 # General problem of heterogeneous spreading on networks
 Folder to keep ongoing code for producing simulations of heterogeneous spreading of SIR model on a network.
-Overleaf in progress https://www.overleaf.com/project/5c640b9f4b3b354faddbbf35 
-
-This is common work by P.Holme, F.Ianelli, L.Tupikina-Bauer and G.Simon CRI master.
+This is common work by P.Holme, F.Ianelli, L.Tupikina-Bauer and G.Simon (CRI master).
 
 ## How to use the repository?
 1. The code in **"main_heterogeneous_spreading.py"** simulates 
